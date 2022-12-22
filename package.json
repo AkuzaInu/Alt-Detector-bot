@@ -1,0 +1,16 @@
+{
+  "name": "alt-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AkuzaInu",
+  "license": "ISC",
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.3",
+    "discord.js": "^14.7.1",
+    "keyv": "^4.5.2"
+  }
+}
